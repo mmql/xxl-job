@@ -1,4 +1,4 @@
-# xxl-job-demo
+# xxl-job
 
 分布式任务调度框架xxl-job整理和快速demo
 
@@ -8,10 +8,12 @@
   - 浏览器打开 http://localhost:8080/xxl-job-admin
   - 这个项目代码不不需要自己写的(有别人现成的镜像可以使用)
 
-## xxl-job-demo
+## xxl-job
 
-  - xxl-job-demo，是自己的项目，需要在里面集成使用xxl-job
-  - 在调度中心 配置好自己的xxl-job(与代码里一致)
+  - xxl-job，是自己的项目，需要在代码里集成xxl-job
+  - 直接启动运行xxl-job
+  - 在调度中心 配置好自己的xxl-job(与代码里命名一致)
+  - 在调度中心 手动/定时 执行 所配置的job，观察日志
   
 
  

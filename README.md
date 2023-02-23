@@ -5,7 +5,7 @@
 ## 前提 搭建 xxl-job-admin(调度中心) 项目
 
   - 执行docker 下的 start.sh(启动项目xxl-job-admin，通过镜像，并依赖于 mysql镜像)
-  - 浏览器打开 http://localhost:8080/xxl-job-admin
+  - 浏览器打开 http://localhost:8080/xxl-job-admin    admin/123456登陆
   - 这个项目代码不不需要自己写的(有别人现成的镜像可以使用)
 
 ## xxl-job
